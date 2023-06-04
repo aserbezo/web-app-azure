@@ -1,5 +1,5 @@
 {
-  "name": "web-app-azure",
+  "name": "package.json",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,18 @@
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
+  "author": "aserbezo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aserbezo/web-app-azure.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aserbezo/web-app-azure/issues"
+  },
+  "homepage": "https://github.com/aserbezo/web-app-azure#readme"
 }
